@@ -137,3 +137,9 @@ Back, back, 回來, terug, balik
 
 ## License
 Copyright (c) 2014-Present [Huei Tan](https://github.com/hueitan). Licensed under the MIT license.
+
+
+## Change
+label support <= 、 >=
+ <= ,需小于,Need to be less than,Necesita ser menor que,daha az olması gerekiyor,"Должно быть меньше, чем"
+
