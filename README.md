@@ -140,6 +140,7 @@ Copyright (c) 2014-Present [Huei Tan](https://github.com/hueitan). Licensed unde
 
 
 ## Change
-label support <= 、 >=
+label support <= 、 >=.
+
  <= ,需小于,Need to be less than,Necesita ser menor que,daha az olması gerekiyor,"Должно быть меньше, чем"
 
